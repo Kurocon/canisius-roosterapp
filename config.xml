@@ -23,7 +23,8 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="logo.png" gap:role="default" />
+	<icon src="icon.png" width="480" height="480" gap:role="default" />
+	<icon src="icon_hover.png" width="480" height="480" hover="true"/>
 
 	<feature name="http://api.phonegap.com/1.0/network"/>
 
