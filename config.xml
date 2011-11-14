@@ -23,9 +23,7 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="assets/img/icon.png" width="480" height="480" gap:role="default" />
-	<icon src="assets/img/icon_hover.png" width="480" height="480" hover="true"/>
-	<icon src="assets/img/icon_72.png" width="72" height="72" />
+	<icon src="assets/img/icon_72.png" gap:role="default" width="72" height="72" />
 	<icon src="assets/img/icon_48.png" width="48" height="48" />
 	<icon src="assets/img/icon_36.png" width="36" height="36" />
 
