@@ -2,7 +2,8 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.kevinalberts.canisius.roosters"
-	version 	= "0.9.1">
+	version 	= "0.8.2"
+	versionCode	= "2">
 
 	<name>Canisius RoosterApp</name>
 
@@ -12,7 +13,7 @@
 
 	<author href="http://www.kevinalberts.nl"
 		email="support@kevinalberts.nl">
-		Andrew Lunny
+		Kevin Alberts
 	</author>
 
 	<gap:platforms>
@@ -24,7 +25,6 @@
 
 	<icon src="logo.png" gap:role="default" />
 
-	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 	<feature name="http://api.phonegap.com/1.0/network"/>
 
 	<!-- sample preference specification -->
