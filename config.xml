@@ -2,8 +2,8 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.kevinalberts.canisius.roosters"
-	version 	= "0.8.2"
-	versionCode	= "2">
+	version 	= "0.9.0"
+	versionCode	= "3">
 
 	<name>Canisius RoosterApp</name>
 
