@@ -1,6 +1,5 @@
-PhoneGap-Start
----
+De (on)officiële applicatie voor Android, Blackberry, Symbian en webOS voor de roosters van de bovenbouw van het St-Canisius te Almelo.
 
-A starting point for PhoneGap apps.
+-------
 
-To get started: fork this repo, modify the config.xml to match your details, and get building!
+The (un)official application for Android, Blackberry, Symbian and webOS for the timetables of the upper classes of the St-Canisius in Almelo.
