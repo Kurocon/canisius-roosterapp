@@ -2,8 +2,8 @@
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
 	id		= "com.kevinalberts.canisius.roosters"
-	version 	= "0.9.0"
-	versionCode	= "3">
+	version 	= "0.9.1"
+	versionCode	= "4">
 
 	<name>Canisius RoosterApp</name>
 
@@ -23,9 +23,9 @@
 		<gap:platform name="blackberry" project="widgets"/>
 	</gap:platforms>
 
-	<icon src="assets/img/icon_72.png" gap:role="default" width="72" height="72" />
-	<icon src="assets/img/icon_48.png" width="48" height="48" />
-	<icon src="assets/img/icon_36.png" width="36" height="36" />
+	<icon src="assets/img/icon72.png" gap:role="default" width="72" height="72" />
+	<icon src="assets/img/icon48.png" width="48" height="48" />
+	<icon src="assets/img/icon36.png" width="36" height="36" />
 
 	<feature name="http://api.phonegap.com/1.0/network"/>
 
