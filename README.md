@@ -1,5 +1,5 @@
-De (on)officiële applicatie voor Android, Blackberry, Symbian en webOS voor de roosters van de bovenbouw van het St-Canisius te Almelo.
+Officiële mobiele applicatie voor de roosters van de bovenbouw van het St. Canisius Almelo. Beschikbaar op Android, Blackberry, Symbian en webOS.
 
 -------
 
-The (un)official application for Android, Blackberry, Symbian and webOS for the timetables of the upper classes of the St-Canisius in Almelo.
+Official mobile application for the timetables of the upper classes of the St. Canisius Almelo. Available for Android, Blackberry, Symbian and webOS.
