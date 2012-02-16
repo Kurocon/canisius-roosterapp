@@ -5,13 +5,12 @@
 		<title>Canisius RoosterApp</title>
 		<link rel="stylesheet" href="assets/css/style.css" type="text/css" media="screen" />
 		<script type="text/javascript"> 
-			document.addEventListener("deviceready", onDeviceReady, false);
+			document.addEventListener("deviceready", onDeviceReady(), false);
 			
 			function onDeviceReady() {
-			alert('deviceready');
-				document.addEventListener("offline", onOffline, false);
-				document.addEventListener("online", onOnline, false);
-				document.addEventListener("menubutton", onMenuKeyDown, false);
+				document.addEventListener("offline", onOffline(), false);
+				document.addEventListener("online", onOnline(), false);
+				document.addEventListener("menubutton", onMenuKeyDown(), false);
 			}
 			
 			function onOnline() {
