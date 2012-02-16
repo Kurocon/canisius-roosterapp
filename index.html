@@ -8,10 +8,10 @@
 			document.addEventListener("deviceready", onDeviceReady, false);
 			
 			function onDeviceReady() {
+			alert('deviceready');
 				document.addEventListener("offline", onOffline, false);
 				document.addEventListener("online", onOnline, false);
 				document.addEventListener("menubutton", onMenuKeyDown, false);
-				document.addEventListener("backbutton", onMenuKeyDown, false);
 			}
 			
 			function onOnline() {
