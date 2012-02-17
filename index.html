@@ -5,7 +5,9 @@
 		<title>Canisius RoosterApp</title>
 		<link rel="stylesheet" href="assets/css/style.css" type="text/css" media="screen" />
 		<script type="text/javascript"> 
-			document.addEventListener("deviceready", onDeviceReady(), false);
+			function onPageLoad() {
+				document.addEventListener("deviceready", onDeviceReady(), false);
+			}
 			
 			function onDeviceReady() {
 				document.addEventListener("offline", onOffline(), false);
@@ -48,7 +50,7 @@
 			
 		</script>
 	</head>
-	<body>
+	<body onload="onPageLoad()">
 		<div id ="menuDiv" name="menuDiv" style="display:none;height:100px;width:350px;background:#333333;color:#ffffff;position:absolute">
 		<div id="mainMenuBtn" name="mainMenuBtn" style="width:50%;height:70px;font-family:'Verdana';text-align:center;float:left;padding-top:30px;" onclick="gotoMainMenu()">Naar</br>Hoofdmenu</div>
 		<div id="closeAppBtn" name="closeAppBtn" style="width:50%;height:70px;font-family:'Verdana';text-align:center;float:left;padding-top:30px;" onclick="exitApplication()">Applicatie</br>Afsluiten</div>
