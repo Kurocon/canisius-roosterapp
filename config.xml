@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "nl.kevinalberts.canisius.roosters.debug"
-	version 	= "1.1.0pre1"
-	versionCode	= "8">
+	id		= "nl.kevinalberts.canisius.roosters"
+	version 	= "1.0.2"
+	versionCode	= "7">
 
-	<name>Canisius RoosterApp Dev</name>
+	<name>Canisius RoosterApp</name>
 
 	<description>
-		Development versie van de Canisius RoosterApp
+		Officiële mobiele applicatie voor de roosters van de bovenbouw van het St. Canisius Almelo. Beschikbaar op Android, Blackberry, Symbian en webOS.
 	</description>
 
 	<author href="http://www.kevinalberts.nl/"
